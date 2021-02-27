@@ -61,7 +61,7 @@ int shl_mutex_lock(shl_mutex_t mutex);
 /* Unlocks a mutex */
 int shl_mutex_unlock(shl_mutex_t mutex);
 
-#ifdef SDL_THREAD_IMPL
+#ifdef SHL_THREAD_IMPL
 
 #ifdef _WIN32
 
