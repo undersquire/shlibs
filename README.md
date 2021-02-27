@@ -1,0 +1,2 @@
+# shlibs
+Single-header libraries.
